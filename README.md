@@ -21,7 +21,7 @@ Jinyoung Jeong+, Taehyun Park+, JunHo Song, Seungpyo Kang, Joonghee Won, Jungim 
 1. Article retrieval for the journal "Journal of Organometallic Chemistry"
    : `Downloading JOC Articles.ipynb`
 2. Auto-extracting melting point information
-   : `Auto Extraction (JOC)` `Auto Extraction (OMs)`
+   : `Auto Extraction (JOC).ipynb` `Auto Extraction (OMs).ipynb`
 
-# Installation
+# Acknowledgements
 This work was supported by a National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (No. 2022R1F1A1074339, No. 2022R1C1C1009387). The work was also supported by Samsung Advanced Institute of Technology.
