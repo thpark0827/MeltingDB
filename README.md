@@ -1,6 +1,6 @@
 # MeltingDB
 
-Integrating Data Mining and Natural Language Processing to Construct a Melting Point Database for Organometallic Compounds
+Integrating Data Mining and Natural Language Processing to Construct a Melting Point Database for Organometallic Compounds (10.1021/acs.jcim.4c01254)
 
 Jinyoung Jeong+, Taehyun Park+, JunHo Song, Seungpyo Kang, Joonghee Won, Jungim Han*, and Kyoungmin Min*
 
